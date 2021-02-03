@@ -2,13 +2,13 @@
 
 This is A Chat application like whatsapp 
  
-## This repository  contains 3 directories: 
+## This repository  contains 2 directories: 
 
- # Server :
+ ## Server :
  Backend for Chating Application 
 
- # client_web : 
+ ## client_web : 
 Frontend for chating App for web
 
-# Chat-RN :
+## Chat-RN :
 Frontend for chating App for Mobile
