@@ -2,7 +2,7 @@
 
 This is A Chat application like whatsapp 
  
-## This repository  contains 2 directories: 
+## This repository  contains 3 projects: 
 
  ## Server :
  Backend for Chating Application 
